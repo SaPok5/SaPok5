@@ -1,7 +1,7 @@
 # Hi there, I'm Samip Pokharel 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaPok5&color=blue)
-<img align="right" alt="coder" width="400" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"> 
+<img align="Centre" alt="coder" width="400" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"> 
 
 
 ## About Me
