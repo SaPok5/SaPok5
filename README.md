@@ -37,17 +37,6 @@ I'm a **Computer Science student at Kathmandu University** with a passion for **
 </div>
 
 ---
-
-## 🎨 UI/UX & Design  
-
-I have a **keen interest in UI/UX design** and love creating engaging user experiences. My design tools include:  
-
-- 🎨 **Figma** – Wireframing & prototyping intuitive designs  
-- 📱 **Flutter** – Crafting cross-platform mobile UI  
-- 🖌️ **CSS3 & HTML5** – Styling and structuring web interfaces  
-
----
-
 ## 🔥 Notable Projects  
 
 ### **🚀 Software & AI Projects**  
