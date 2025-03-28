@@ -41,7 +41,8 @@ I'm a **Computer Science student at Kathmandu University** with a passion for **
 
 ### **🚀 Software & AI Projects**  
 
-- [**Gesture-Controlled Digital Interaction**](https://github.com/SaPok5/Gesture-control) – A **computer vision-based** system that enables users to interact with computers using **natural hand gestures** for browsing and multimedia control.  
+- [**Gesture-Controlled Digital Interaction**](https://github.com/SaPok5/Gesture-control) – A **computer vision-based** system that enables users to interact with computers using **natural hand gestures** for browsing and multimedia control.
+- [**ChatBOT**](https://github.com/SaPok5/chatbot_project) - A sophisticated AI-powered document assistant built with **Google's Gemini API** and **LangChain**
 - [**EV Data Analysis**](https://github.com/SaPok5/EVData) – Analyzing **Electric Vehicle (EV) adoption trends** and their environmental impact using data-driven insights.  
 - [**AI Agents Inference Benchmarking**](https://github.com/OmdenaAI/OmdenaKnowledge_AIAgentsInferenceBenchmarking) – A **collaborative project with Omdena**, benchmarking AI inference performance across models. 
 - [**Healthcare Accessibility (Sudan Chapter)**](https://github.com/SaPok5/SudanChapter_AnalyzeHealthcareAccessibility) – A **data-driven analysis** of healthcare accessibility in Sudan.  
